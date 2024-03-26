@@ -1,0 +1,17 @@
+{
+  "AnatomicalReference": "sub-48_acq-15_run-5_fmapid-auto00004_desc-magnitude_fieldmap.nii.gz",
+  "AssociatedCoefficients": [
+    "sub-48_acq-15_run-5_fmapid-auto00004_desc-coeff0_fieldmap.nii.gz",
+    "sub-48_acq-15_run-5_fmapid-auto00004_desc-coeff1_fieldmap.nii.gz"
+  ],
+  "B0FieldIdentifier": "auto_00004",
+  "IntendedFor": [
+    "func/sub-48_task-numrisk_acq-14_run-6_bold.nii.gz"
+  ],
+  "RawSources": [
+    "/scratch1/03201/jbwexler/openneuro_derivatives/derivatives/fmriprep/ds004259-fmriprep/sourcedata/raw/sub-48/fmap/sub-48_acq-15_run-5_phasediff.nii.gz",
+    "/scratch1/03201/jbwexler/openneuro_derivatives/derivatives/fmriprep/ds004259-fmriprep/sourcedata/raw/sub-48/fmap/sub-48_acq-15_run-5_magnitude1.nii.gz",
+    "/scratch1/03201/jbwexler/openneuro_derivatives/derivatives/fmriprep/ds004259-fmriprep/sourcedata/raw/sub-48/fmap/sub-48_acq-15_run-5_magnitude2.nii.gz"
+  ],
+  "Units": "Hz"
+}
